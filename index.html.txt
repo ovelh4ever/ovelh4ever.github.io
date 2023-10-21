@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mensagem Especial</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+
+        .mensagem {
+            font-size: 24px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Obrigado por todos esses anos sendo a mãe e esposa ideal para os nossos filhos e para mim!</h1>
+    <p class="mensagem">Apesar de ainda te amar, respeito a sua decisão!</p>
+</body>
+
+</html>
+
